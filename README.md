@@ -20,4 +20,5 @@
 
 ## Автори і контакти
 
-Дарія Хобта - hobtadasha@gmail.com
+Дарія Хобта Олегівна - hobtadasha@gmail.com
+Група П-32
