@@ -1,3 +1,5 @@
+<img width="800" height="495" alt="image" src="https://github.com/user-attachments/assets/714e860d-091d-4e23-95cc-faa9171955d4" />
+
 ## Загальне
 
 Цей репозиторій представляє собою вихідний код для проекту музикального програвача для ПК.
